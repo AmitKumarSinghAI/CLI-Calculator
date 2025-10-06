@@ -51,7 +51,7 @@ Choose your operation:
 
 👉 Enter operation (+, -, *, /) or 'exit': +
 🔢 Enter first number: 10
-🔢 Enter second number: 4
+🔢 Enter second number: 6
 
-✅ Result: 10.0 + 4.0 = 14.0
+✅ Result: 10.0 + 6.0 = 16.0
 ----------------------------------------

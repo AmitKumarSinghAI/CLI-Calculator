@@ -11,7 +11,7 @@ operations = {
 # Stylish banner
 def banner():
     print("\n" + "="*40)
-    print("🧮 Welcome to PY CLI Calculator 3000 🧮")
+    print("🧮 Welcome to PYTHON CLI Calculator 3000 🧮")
     print("="*40)
 
 # Show operation choices

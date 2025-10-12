@@ -39,7 +39,7 @@ python calculator.py
 📸 Sample Output
 
 ========================================
-🧮 Welcome to PY CLI Calculator 3000 🧮
+🧮 Welcome to PYTHON 3 CLI Calculator 3000 🧮
 ========================================
 
 Choose your operation:

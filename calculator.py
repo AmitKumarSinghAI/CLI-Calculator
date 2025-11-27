@@ -1,3 +1,4 @@
+# Import library 
 import time
 
 # Define all operations using dictionary mapping

@@ -1,5 +1,6 @@
 # Import library 
 import time
+import numpy as np
 
 # Define all operations using dictionary mapping
 operations = {
